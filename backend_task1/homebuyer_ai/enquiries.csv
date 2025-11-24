@@ -1,0 +1,12 @@
+name,age,income,city,property_type,budget,followups,site_visited,booked,intent
+Rahul Sharma,32,85000,Mumbai,Apartment,7500000,3,1,0,Interested
+Sneha Patil,28,45000,Pune,Villa,6000000,1,0,0,Not Interested
+Amit Verma,45,120000,Delhi,Apartment,9000000,5,1,1,Interested
+Priya Iyer,30,65000,Bangalore,Studio,4000000,2,1,0,Interested
+Rohit Singh,38,50000,Hyderabad,Apartment,5500000,1,0,0,Not Interested
+Simran Kaur,34,78000,Chandigarh,Villa,8000000,3,1,0,Interested
+Anil Yadav,41,30000,Noida,Studio,3500000,0,0,0,Not Interested
+Kavita Joshi,27,90000,Delhi,Apartment,7000000,4,1,1,Interested
+Mohit Jain,36,65000,Mumbai,Villa,8500000,2,1,0,Interested
+Neha Kapoor,29,40000,Pune,Studio,3000000,1,0,0,Not Interested
+test,30,40000,Mumbai,2BHK,5000000,3,1,0

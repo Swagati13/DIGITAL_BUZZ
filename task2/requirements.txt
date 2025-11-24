@@ -1,0 +1,8 @@
+Django>=4.2
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary
+python-socketio[asgi]     # ASGI-compatible server + client support
+uvicorn                   # ASGI server
+Pillow                    # image handling
+django-cors-headers
